@@ -12,6 +12,6 @@ deployer:
 
 workspace:
   git:
-    url: https://github.com/rhpds/ci-template-gitops.git
+    url: https://github.com/rhpds/ocp4-getting-started-gitops.git
     revision: main
     path: workspace
